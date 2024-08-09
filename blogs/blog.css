@@ -94,3 +94,18 @@ body {
         border: 0;
     }
 }
+
+/* Download Button */
+.download-button {
+    display: block;
+    text-decoration: none;
+    color: #FFF;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 15px;
+    background-color: #282828;
+}
+
+.download-button:hover {
+    background-color: #404040;
+}
