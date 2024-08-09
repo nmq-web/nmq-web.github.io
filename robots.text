@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /blogs-sidebar/
+Disallow: /components/
+
+Sitemap: https://nmq-web.github.io/sitemap.txt
